@@ -1,0 +1,252 @@
+.navbar-brand-go {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.nav-link{
+    font-family: Inter;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 12px;
+    color: #1D2426 !important;
+    letter-spacing: 0.1em;
+}
+
+section {
+    margin-top: 3%
+}
+
+.btn-outline-primary-gowork {
+    /* ui */
+    border-radius: 14px;
+    opacity: 0.52;
+    border-color: #243033;
+
+    /* text */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1D2426;
+}
+
+.btn-outline-primary-gowork:hover {
+    /* ui */
+    border-radius: 14px;
+    opacity: 0.52;
+    border-color: #ffffff;
+    background-color: #243033;
+
+    color: #ffffff;
+}
+
+h1.title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 120%;
+    /* or 50px */
+    
+    
+    color: #1D2426; 
+}
+
+h2.title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+
+    color: #1D2426;
+}
+
+h3.title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 35px;
+}
+
+h5.title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+
+
+    color: #076B8C;
+}
+
+p.description {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    color: #1D2426;
+}
+
+p.info {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+
+    color: #076B8C;
+}
+
+p.label-membership {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    /* or 162% */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #004D66;
+}
+
+p.info-1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+
+
+    color: #1D2426;
+}
+
+p.info-2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+
+
+    color: #1D2426;
+}
+
+p.title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #1D2426;
+}
+
+p.title-2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: #076B8C;
+}
+
+p.info-small {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+
+    color: #414E52;
+}
+
+p.subtitle {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #414E52;
+
+    mix-blend-mode: normal;
+}
+
+p.membership-name {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+p.membership-name-subtitle {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    /* identical to box height, or 18px */
+
+
+    color: #1D2426;
+}
+
+p.caption {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    color: #1D2426;
+}
+
+div.border-outline {
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
